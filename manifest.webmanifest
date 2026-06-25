@@ -1,0 +1,28 @@
+{
+  "name": "Santa Casa Lar da Misericórdia Villa Serena",
+  "short_name": "Villa Serena",
+  "description": "Projeto social de acolhimento voluntário, convivência protegida e cuidado social para pessoas maiores de 18 anos.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#2f5135",
+  "icons": [
+    {
+      "src": "assets/img/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Inteligência Artificial Casa Lar",
+      "description": "Abrir apoio social no ambiente Jus9 Verde.",
+      "url": "https://jus9verde.jus9tecnologia.com.br/charlie-echo-social#chat-social"
+    }
+  ]
+}
